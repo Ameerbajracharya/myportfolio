@@ -10,7 +10,6 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">PHP</h3>
-              <span className="skills_level">Advance</span>
             </div>
           </div>
 
@@ -18,7 +17,6 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">Python</h3>
-              <span className="skills_level">Basic</span>
             </div>
           </div>
 
@@ -26,7 +24,6 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">Laravel</h3>
-              <span className="skills_level">Advance</span>
             </div>
           </div>
         </div>
@@ -35,7 +32,6 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">My SQL</h3>
-              <span className="skills_level">Advance</span>
             </div>
           </div>
 
@@ -43,7 +39,6 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">RESTful API</h3>
-              <span className="skills_level">Intermediate</span>
             </div>
           </div>
 
@@ -51,7 +46,6 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">AJAX</h3>
-              <span className="skills_level">Intermediate</span>
             </div>
           </div>
         </div>
