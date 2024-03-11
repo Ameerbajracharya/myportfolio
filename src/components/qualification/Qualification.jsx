@@ -141,7 +141,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">
                   Laravel (Backend) Developer
                 </h3>
-                <span className="qualification__subtitle">Zillicom.com</span>
+                <span className="qualification__subtitle">Zillicom Real Estate</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2020 - 2022
                 </div>
